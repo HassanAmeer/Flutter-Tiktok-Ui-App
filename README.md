@@ -1,16 +1,21 @@
-# tiktok_yt
+#  Flutter-Tiktok-Ui-App
+Its Only Ui Of Flutter
 
-A new Flutter project.
+easy to understand all codes every One Can Study These File Codes
 
-## Getting Started
+<code> Flutter dart </code>
 
-This project is a starting point for a Flutter application.
+<i> <p style="color:orange;"> if any Problems Can Contact Feel Free </p> </i>
 
-A few resources to get you started if this is your first Flutter project:
+❤❤❤❤❤❤ 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+<i> Marketeplace </i>
+<br> </br>
+![snippets in action](https://github.com/HassanAmeer/Flutter-Pdf-Extra-All-In-One-Ui/blob/main/loadcat.gif)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
+
+# Screenshots Demo
+<img src='tiktok demo.png'>
